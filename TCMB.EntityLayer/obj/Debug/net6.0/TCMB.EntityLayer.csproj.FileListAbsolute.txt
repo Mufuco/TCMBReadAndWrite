@@ -1,0 +1,12 @@
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\bin\Debug\net6.0\TCMB.EntityLayer.deps.json
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\bin\Debug\net6.0\TCMB.EntityLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\bin\Debug\net6.0\TCMB.EntityLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.AssemblyInfo.cs
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\refint\TCMB.EntityLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\TCMB.EntityLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.EntityLayer\obj\Debug\net6.0\ref\TCMB.EntityLayer.dll

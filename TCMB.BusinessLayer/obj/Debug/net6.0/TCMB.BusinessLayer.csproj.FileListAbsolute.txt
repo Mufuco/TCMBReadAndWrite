@@ -1,0 +1,15 @@
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\bin\Debug\net6.0\TCMB.BusinessLayer.deps.json
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\bin\Debug\net6.0\TCMB.BusinessLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\bin\Debug\net6.0\TCMB.BusinessLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.AssemblyInfo.cs
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\refint\TCMB.BusinessLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\ref\TCMB.BusinessLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\bin\Debug\net6.0\TCMB.EntityLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\bin\Debug\net6.0\TCMB.EntityLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.BusinessLayer\obj\Debug\net6.0\TCMB.BusinessLayer.csproj.CopyComplete

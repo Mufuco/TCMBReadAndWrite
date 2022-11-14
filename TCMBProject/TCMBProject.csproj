@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TCMB.BusinessLayer\TCMB.BusinessLayer.csproj" />
+    <ProjectReference Include="..\TCMB.CoreLayer\TCMB.CoreLayer.csproj" />
+    <ProjectReference Include="..\TCMB.DataAccesLayer\TCMB.DataAccesLayer.csproj" />
+    <ProjectReference Include="..\TCMB.EntityLayer\TCMB.EntityLayer.csproj" />
+  </ItemGroup>
+
+</Project>

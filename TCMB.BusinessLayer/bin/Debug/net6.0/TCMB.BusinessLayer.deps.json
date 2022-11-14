@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TCMB.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "TCMB.EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "TCMB.BusinessLayer.dll": {}
+        }
+      },
+      "TCMB.EntityLayer/1.0.0": {
+        "runtime": {
+          "TCMB.EntityLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCMB.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TCMB.EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

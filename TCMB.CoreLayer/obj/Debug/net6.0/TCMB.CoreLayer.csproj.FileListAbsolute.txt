@@ -1,0 +1,15 @@
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\bin\Debug\net6.0\TCMB.CoreLayer.deps.json
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\bin\Debug\net6.0\TCMB.CoreLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\bin\Debug\net6.0\TCMB.CoreLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.AssemblyInfo.cs
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\refint\TCMB.CoreLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\ref\TCMB.CoreLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\bin\Debug\net6.0\TCMB.EntityLayer.dll
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\bin\Debug\net6.0\TCMB.EntityLayer.pdb
+C:\Users\mfurk\source\repos\TCMBProject\TCMB.CoreLayer\obj\Debug\net6.0\TCMB.CoreLayer.csproj.CopyComplete
